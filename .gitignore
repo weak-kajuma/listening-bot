@@ -1,0 +1,4 @@
+node_modules
+recordings/*
+package-lock.json
+.env.local
